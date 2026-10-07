@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ExploraRutas</string>
+    <string name="titulo_principal">Descubre tu próxima aventura</string>
+    <string name="subtitulo_principal">Rutas de senderismo cerca de ti</string>
+    <string name="boton_ver_rutas">Ver rutas disponibles</string>
+    <string name="titulo_detalle">Detalle de la ruta</string>
+    <string name="dificultad_facil">Fácil</string>
+    <string name="dificultad_media">Media</string>
+    <string name="dificultad_dificil">Difícil</string>
+    <string name="descripcion_ruta">Disfruta de un recorrido único por la naturaleza.</string>
+    <string name="duracion_ruta">Duración estimada: %1$s horas</string>
+    <string name="compartir_ruta">Compartir ruta</string>
+
+    <string-array name="opciones_filtro">
+        <item>Todas</item>
+        <item>Fácil</item>
+        <item>Media</item>
+        <item>Difícil</item>
+    </string-array>
+</resources>

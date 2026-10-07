@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ExploreRoutes</string>
+    <string name="titulo_principal">Discover your next adventure</string>
+    <string name="subtitulo_principal">Hiking routes near you</string>
+    <string name="boton_ver_rutas">See available routes</string>
+    <string name="titulo_detalle">Route details</string>
+    <string name="dificultad_facil">Easy</string>
+    <string name="dificultad_media">Medium</string>
+    <string name="dificultad_dificil">Hard</string>
+    <string name="descripcion_ruta">Enjoy a unique journey through nature.</string>
+    <string name="duracion_ruta">Estimated duration: %1$s hours</string>
+    <string name="compartir_ruta">Share route</string>
+
+    <string-array name="opciones_filtro">
+        <item>All</item>
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+</resources>

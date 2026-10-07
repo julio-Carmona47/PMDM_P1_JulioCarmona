@@ -1,0 +1,9 @@
+<resources>
+    <color name="color_primario">#2E7D32</color>
+    <color name="color_primario_oscuro">#1B5E20</color>
+    <color name="color_secundario">#8D6E63</color>
+    <color name="color_fondo">#F1F8E9</color>
+    <color name="color_texto_principal">#212121</color>
+    <color name="color_texto_secundario">#757575</color>
+    <color name="color_blanco">#FFFFFF</color>
+</resources>
